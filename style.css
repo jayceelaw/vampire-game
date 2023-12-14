@@ -1,0 +1,7 @@
+/* makes canvas full screen (removes border around) - from stack overflow */
+canvas {
+  display:block;
+}
+body {
+  margin:0;
+}
